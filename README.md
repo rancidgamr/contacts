@@ -1,8 +1,11 @@
 # contacts
 mean stack: contacts
-based on tuttorial
+based on tutorial:Edureka
 Folders
+
+
 contactlist
+      
       |__app.js
       |__package.json
       |__models
